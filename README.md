@@ -1,3 +1,3 @@
 # Assorted Coding Examples
 
-Mainly stuff like Project Euler and Rosalind stuff.
+Mainly stuff in the vein of Project Euler and Rosalind.
